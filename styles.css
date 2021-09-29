@@ -15,5 +15,5 @@ border-width: 2px;
 width: 100px;
 height: 100px;
 margin: auto;
-overflow: auto;
+overflow: scroll;
 }
