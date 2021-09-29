@@ -12,5 +12,6 @@ p {
 .div1 {
   border-style: dotted;
 border-width: 2px;
+width: 100px;
 height: 100px;
 }
