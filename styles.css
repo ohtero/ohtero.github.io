@@ -11,11 +11,13 @@ p {
   font-size:12;
 }
 .textbox {
-  text-align:center;
+  border: 2px solid white;
   background-color:rgb(100, 230, 230);
+  padding:  25px;
+  text-align:center;
   margin:auto;
   width:50%;
-  border: 2px solid white;
+
   padding:50;
 }
 
