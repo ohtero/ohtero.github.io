@@ -28,6 +28,7 @@ p {
   height: 100px;
 }
 
-.rivi {
-  float:left;
+.kuva {
+  margin:auto;
+  width: 50%
 }
