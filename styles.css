@@ -13,8 +13,8 @@ p {
 .textbox {
   background-color:rgb(100, 200, 200);
   border-radius:30px;
+  border-style: 1px ivory solid;
   margin: 30px;
-
 }
 
 .div1 {
