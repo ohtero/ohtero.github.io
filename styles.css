@@ -4,10 +4,13 @@ body {
 }
 h1 {
   font-size: 20;
+  border-style:dashed;
 }
 p {
   color:green;
+  background-color:rgb(100, 200, 200);
   font-size: 12;
+  border-radius: 30px;
 }
 .div1 {
   border-style: dotted;
