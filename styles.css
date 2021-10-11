@@ -8,12 +8,14 @@ h1 {
 }
 p {
   color:green;
-  background-color:rgb(100, 200, 200);
   font-size:12;
-  border-radius:30px;
-  margin-left:15%;
-  margin-right:15%;
 }
+.textbox {
+  background-color:rgb(100, 200, 200);
+  border-radius:30px;
+
+}
+
 .div1 {
   border-style: dotted;
   border-width: 2px;
