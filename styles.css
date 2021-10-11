@@ -12,6 +12,7 @@ p {
 }
 .textbox {
   border: 2px solid white;
+  border-radius: 15px;
   background-color:rgb(100, 230, 230);
   padding:  25px;
   text-align:center;
@@ -30,5 +31,5 @@ p {
 
 .kuva {
   margin:auto;
-  width: 50%
+  width: 50%;
 }
