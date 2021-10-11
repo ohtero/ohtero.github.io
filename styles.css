@@ -12,7 +12,9 @@ p {
 }
 .textbox {
   text-align:center;
-  background-color:rgb(100, 200, 200);
+  background-color:rgb(100, 100px, 200);
+  margin:auto;
+  width:50%;
 }
 
 .div1 {
