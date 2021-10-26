@@ -5,6 +5,10 @@ body {
 h1 {
   font-size: 20;
   border-style:dashed;
+  margin:auto;
+}
+h2 {
+  margin:auto;
 }
 p {
   color:green;
