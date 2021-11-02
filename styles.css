@@ -1,37 +1,62 @@
-.sitestyle {
-  background-color: black;
-  color: white;
+
+/* sivun perustyyli */
+.sitestyle{
+  background-color:black;
+  color:white;
 }
 
-.header1 {
-  font-size: 20px;
+/* h1 otsikon tyyli */
+.heading1{
   border-style:dashed;
+  font-size:20px;
 }
 
-.maintext {
+/* päätekstin tyyli */
+.maintext{
   color:green;
   font-size:12px;
 }
 
-.textbox {
-  border: 2px solid white;
-  border-radius: 15px;
+/* tekstikentän tyyli */
+.textbox{
+  border:2px solid white;
+  border-radius:15px;
   background-color:rgb(100, 230, 230);
-  padding:  25px;
-  text-align:center;
   margin:auto;
+  padding:50px;
+  text-align:center;
   width:50%;
+}
+
+/*otsikkopalkin tyyli */
+.header1{
+  background-color:red;
   padding:50px;
 }
 
+/* navigointipalkin tyyli */
+.navbar1{
+  background-color:yellow;
+  float:left;
+  padding:20px;
+  width:50%;
+}
+
+/* sectionin tyyli */
+.section1{
+  background-color:grey;
+  float:left;
+  padding:20px;
+  width:50%;
+}
 .div1 {
-  border-style: dotted;
-  border-width: 2px;
-  width: 100px;
-  height: 100px;
+  border-style:dotted;
+  border-width:2px;
+  height:100px;
+  width:100px;
 }
 
 .kuva {
   margin:auto;
-  width: 10%;
+  width:10%;
 }
