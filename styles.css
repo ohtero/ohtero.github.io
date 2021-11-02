@@ -46,7 +46,7 @@
 /* 05B saectin tyyli */
 .section1{
   box-sizing:border-box;
-  padding:5px;
+  padding-top:5px;
 }
 
 /*05B navigointipalkin tyyli */
@@ -54,7 +54,7 @@
   background-color:#dcdcdc;
   box-sizing:border-box;
   float:left;
-  padding:20px;
+  padding:5px;
   width:30%;
 }
 
@@ -63,7 +63,7 @@
   background-color:#f8f8ff;
   box-sizing:border-box;
   float:left;
-  padding:20px;
+  padding:5px;
   text-align:center;
   width:70%;
 }
