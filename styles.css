@@ -7,7 +7,7 @@ a:visited{
 a:hover{
   color:red;
 }
-/* 03B sivun perustyyli */
+/* sivun tausta/perustyyli */
 .sitestyle{
   background-color:black;
   color:#2f4f4f;
@@ -40,7 +40,7 @@ a:hover{
   width:50%;
 }
 
-/* 05B otsikkopalkin tyyli */
+/* otsikkopalkin tyyli */
 .header1{
   background-color:#8fbc8f;
   color:white;
@@ -48,22 +48,22 @@ a:hover{
   padding:50px;
   text-align:center;
 }
-/* 05B saectin tyyli */
+/* saectin tyyli */
 .section1{
   box-sizing:border-box;
   padding-top:5px;
 }
 
-/*05B navigointipalkin tyyli */
+/* navigointipalkin tyyli */
 .navbar1{
   background-color:#dcdcdc;
   box-sizing:border-box;
   float:left;
   padding:5px;
-  width:30%;
+  width:15%;
 }
 
-/* 05B article tyyli */
+/* article tyyli */
 .article1{
   background-color:#f8f8ff;
   box-sizing:border-box;
