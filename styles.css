@@ -2,7 +2,7 @@
 
 
 
-/* sivun perustyyli */
+/* 03B sivun perustyyli */
 .sitestyle{
   background-color:black;
   color:white;
@@ -12,19 +12,19 @@
 
 }
 
-/* h1 otsikon tyyli */
+/* 03/04B h1 otsikon tyyli */
 .heading1{
   border-style:dashed;
   font-size:20px;
 }
 
-/* päätekstin tyyli */
+/* 04B päätekstin tyyli */
 .maintext{
   color:green;
   font-size:12px;
 }
 
-/* tekstikentän tyyli */
+/* 04B tekstikentän tyyli */
 .textbox{
   border:2px solid white;
   border-radius:15px;
@@ -35,7 +35,7 @@
   width:50%;
 }
 
-/*otsikkopalkin tyyli */
+/* 05B otsikkopalkin tyyli */
 .header1{
   background-color:#8fbc8f;
   color:white;
@@ -44,7 +44,7 @@
   text-align:center;
 }
 
-/* navigointipalkin tyyli */
+/*05B navigointipalkin tyyli */
 .navbar1{
   background-color:#dcdcdc;
   box-sizing:border-box;
@@ -53,7 +53,7 @@
   width:30%;
 }
 
-/* article tyyli */
+/* 05B article tyyli */
 .article1{
   background-color:#f8f8ff;
   box-sizing:border-box;
@@ -61,6 +61,12 @@
   padding:20px;
   text-aling:center;
   width:70%;
+
+/* 05B section tyyli */
+#section1{
+  padding:5px;
+}
+
 }
 .div1 {
   border-style:dotted;
