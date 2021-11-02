@@ -74,7 +74,9 @@
   width:100px;
 }
 
-.kuva {
-  margin:auto;
-  width:10%;
+.kuva{
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  width:50%;
 }
