@@ -63,7 +63,11 @@ a:hover{
   text-align:center;
 }
 ul.palkki > li{
+<<<<<<< HEAD
   display:inline-block;
+=======
+display:inline-block;
+>>>>>>> 6c3655e8e6aaa7abed2e4aded621477d9e32e425
 }
 
 /* navigointipalkki vasen */
