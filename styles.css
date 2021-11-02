@@ -31,7 +31,10 @@
 /*otsikkopalkin tyyli */
 .header1{
   background-color:red;
+  color:white;
+  font-size:30px;
   padding:50px;
+  text-align:center;
 }
 
 /* navigointipalkin tyyli */
@@ -39,7 +42,7 @@
   background-color:yellow;
   float:left;
   padding:20px;
-  width:50%;
+  width:30%;
 }
 
 /* sectionin tyyli */
@@ -47,7 +50,7 @@
   background-color:grey;
   float:left;
   padding:20px;
-  width:50%;
+  width:70%;
 }
 .div1 {
   border-style:dotted;
