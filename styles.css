@@ -54,8 +54,15 @@ a:hover{
   box-sizing:border-box;
   padding-top:5px;
 }
+/* navigointipalkki ylä */
+.navbartop{
+  background-color:#dcdcdc;
+  box-sizing:border-box;
+  border-radius:5px;
+  padding:10px;
+}
 
-/* navigointipalkin tyyli */
+/* navigointipalkki vasen */
 .navbar1{
   background-color:#dcdcdc;
   box-sizing:border-box;
