@@ -2,3 +2,8 @@
   background-color:black;
   color:white;
 }
+.col-sm-4{
+  border-color:#8fbc8f;
+  border-radius:5px;
+  border-style:solid, 1px;
+}
