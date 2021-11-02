@@ -43,6 +43,10 @@
   padding:50px;
   text-align:center;
 }
+/* 05B saectin tyyli */
+.section1{
+  padding:5px;
+}
 
 /*05B navigointipalkin tyyli */
 .navbar1{
@@ -59,14 +63,8 @@
   box-sizing:border-box;
   float:left;
   padding:20px;
-  text-aling:center;
+  text-align:center;
   width:70%;
-
-/* 05B section tyyli */
-.section1{
-  padding:5px;
-}
-
 }
 .div1 {
   border-style:dotted;
