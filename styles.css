@@ -1,14 +1,14 @@
-body {
+.sitestyle {
   background-color: black;
   color: white;
 }
 
-h1 {
+.header1 {
   font-size: 20px;
   border-style:dashed;
 }
 
-p {
+.maintext {
   color:green;
   font-size:12px;
 }
