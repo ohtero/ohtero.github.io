@@ -2,6 +2,15 @@
 
 
 
+a:link{
+  color:#2f4f4f;
+}
+a:visited{
+  color:#2f4f4f;
+}
+a:hover{
+  color:red;
+}
 /* 03B sivun perustyyli */
 .sitestyle{
   background-color:black;
@@ -81,13 +90,4 @@
   margin-right:auto;
   height:auto;
   max-width:100%;
-}
-a:link{
-  color:#2f4f4f;
-}
-a:visited{
-  color:#2f4f4f;
-}
-a:hover{
-  color:red;
 }
