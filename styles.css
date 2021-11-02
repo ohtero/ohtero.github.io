@@ -58,6 +58,7 @@ a:hover{
 .navbar1{
   background-color:#dcdcdc;
   box-sizing:border-box;
+  border-radius:5px;
   float:left;
   padding:5px;
   width:15%;
@@ -67,6 +68,7 @@ a:hover{
 .article1{
   background-color:#f8f8ff;
   box-sizing:border-box;
+  border-radius:5px;
   float:left;
   font-size:20px;
   padding:5px;
