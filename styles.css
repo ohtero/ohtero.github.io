@@ -40,6 +40,7 @@
 /* navigointipalkin tyyli */
 .navbar1{
   background-color:yellow;
+  box-sizing:border-box;
   float:left;
   padding:20px;
   width:50%;
@@ -48,6 +49,7 @@
 /* article tyyli */
 .article1{
   background-color:grey;
+  box-sizing:border-box;
   float:left;
   padding:20px;
   width:50%;
