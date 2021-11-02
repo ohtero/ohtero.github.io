@@ -43,6 +43,7 @@ a:hover{
 /* otsikkopalkin tyyli */
 .header1{
   background-color:#8fbc8f;
+  border-radius:5px;
   color:white;
   font-size:30px;
   padding:50px;
@@ -71,9 +72,10 @@ a:hover{
   border-radius:5px;
   float:left;
   font-size:20px;
+  margin-left:5px;
   padding:5px;
   text-align:center;
-  width:70%;
+  width:85%;
 }
 .div1 {
   border-style:dotted;
