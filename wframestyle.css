@@ -9,3 +9,11 @@
   padding:30px;
   text-align:center;
 }
+.row{
+  background-color:#dcdcdc;
+}
+.col-sm-4{
+  border-style:solid;
+  border-color:white;
+  text-align:center;
+}
