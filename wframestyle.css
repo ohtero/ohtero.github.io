@@ -23,12 +23,10 @@
 
 .base1{
     background-color:#f8f8ff;
-    padding: 0px;
 }
 
 .description1{
   background-color:#8fbc8f;
-  box-sizing:border-box;
   padding:50px;
   width: 100%
 }
