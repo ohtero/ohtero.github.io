@@ -21,6 +21,12 @@
 .pohja{
     background-color:#f8f8ff;
 }
+.kuvaus{
+  background-color:#dcdcdc;
+  box-sizing:border-box;
+  padding:50px;
+  text-align:center;
+}
 .footer1{
   background-color:#dcdcdc;
   height: 80px;
