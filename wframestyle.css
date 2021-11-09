@@ -3,7 +3,8 @@ body1{
   font-family:verana, arial, sans-serif;
 }
 header1{
-  height:200px;
   background-color:#8fbc8f;
+  height:200px;
+  padding:30px;
   text-align:center;
 }
