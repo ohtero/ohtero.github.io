@@ -1,34 +1,43 @@
 .body1{
   background-color:black;
   font-family:verdana, arial, sans-serif;
+  text-align: center;
 }
+
 .header1{
   box-sizing:border-box;
   background-color:#8fbc8f;
   color:#2f4f4f;
   height:200px;
   padding:30px;
-  text-align:center;
+  text
 }
-.palkki{
+
+.bar1{
   background-color:#dcdcdc;
 }
-.navpainike{
+
+.navbutton1{
   border-style:solid;
   border-color:white;
-  text-align:center;
 }
-.pohja{
+
+.base1{
     background-color:#f8f8ff;
 }
-.kuvaus{
-  background-color:#dcdcdc;
+
+.description1{
+  background-color:#8fbc8f;
   box-sizing:border-box;
   padding:50px;
-  text-align:center;
 }
+
+.product{
+  background-color: #8fbc8f;
+  height: 200px;
+}
+
 .footer1{
   background-color:#dcdcdc;
   height: 80px;
-  text-align:center;
 }
