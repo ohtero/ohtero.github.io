@@ -1,5 +1,4 @@
 .body1{
-  background-color:black;
   font-family:verdana, arial, sans-serif;
   text-align: center;
 }
@@ -35,6 +34,7 @@
 .product{
   background-color: #8fbc8f;
   height: 200px;
+  margin-top: 80px;
 }
 
 .footer1{
