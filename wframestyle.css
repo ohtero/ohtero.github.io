@@ -27,10 +27,8 @@
 
 .description1{
   background-color:#8fbc8f;
-  box-sizing:border-box;
   margin-top: 100px;
   padding:50px;
-  width: 100%
 }
 
 .product{
@@ -47,6 +45,9 @@
 }
 .heading1{
   font-size: 2vw;
+}
+.normaltext{
+  font-size: 1vw;
 }
 .reviews{
   background-color: #8fbc8f;
