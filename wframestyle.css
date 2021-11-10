@@ -36,7 +36,6 @@
 .product{
   background-color: #8fbc8f;
   box-sizing:border-box;
-  height: 350px;
   margin-top: 100px;
   margin-bottom: 80px;
   max-width: 20%;
@@ -45,7 +44,6 @@
   padding: 20px 10px;
 }
 .productimage{
-  
 }
 .reviews{
   background-color: #8fbc8f;
