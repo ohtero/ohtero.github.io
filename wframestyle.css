@@ -45,10 +45,10 @@
 .productimage{
 }
 .heading1{
-  font-size: calc(1rem + 2vw);
+  font-size: calc(1rem + 1vw);
 }
 .normaltext{
-  font-size: calc(1rem + 1vw);
+  font-size: calc(1rem + 0.5vw);
 }
 .reviews{
   background-color: #8fbc8f;
