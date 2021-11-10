@@ -48,13 +48,14 @@
   font-size: calc(1rem + 1vw);
 }
 .normaltext{
-  font-size: calc(1rem + 0.5vw);
+  font-size: calc(1rem + 0.2vw);
 }
 .reviews{
   background-color: #8fbc8f;
   height: 200px;
   margin-top: 80px;
   margin-bottom: 150px;
+  padding: 30px;
 }
 
 .footer1{
