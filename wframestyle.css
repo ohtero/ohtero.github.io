@@ -46,7 +46,7 @@
   font-size: calc(1rem + 1vw);
 }
 .normaltext{
-  font-size: calc(1rem + 0.2vw);
+  font-size: calc(0.5rem + 0.2vw);
 }
 .textbox{
     background-color: inherit;
