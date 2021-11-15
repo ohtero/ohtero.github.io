@@ -50,6 +50,10 @@
 .normaltext{
   font-size: calc(1rem + 0.2vw);
 }
+.textbox{
+  font-size: calc(1rem + 0.2vw);
+    background-color: inherit;
+}
 .reviews{
   background-color: #8fbc8f;
   margin-top: 80px;
