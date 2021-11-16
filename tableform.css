@@ -20,14 +20,14 @@ background-color: black;
   background-color:#dcdcdc;
   border: 1px solid black;
   border-collapse: collapse;
-  padding: 5px;
   text-align: center;
   width: 100%;
 }
 .table1 th{
   background-color: #8fbc8f;
 }
-.table1 tr, th, td{
+.table1 th, td{
   border: 1px solid black;
   border-collapse: collapse;
+  padding: 5px;
 }
