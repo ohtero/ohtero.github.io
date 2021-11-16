@@ -32,3 +32,6 @@ a.hover{
   color: red;
   transition: 0.3s;
 }
+.list1{
+  list-style-type: none;
+}
