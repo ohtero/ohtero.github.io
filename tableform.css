@@ -20,6 +20,8 @@ background-color: black;
   background-color:#dcdcdc;
   text-align: center;
   width: 100%;
+  border: 1px solid black;
+  border-collapse: collapse;
 }
 .table1 th{
   background-color: #8fbc8f;
