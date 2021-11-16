@@ -21,6 +21,7 @@ background-color: black;
   border: 1px solid black;
   border-collapse: collapse;
   text-align: center;
+  width: 100%;
 }
 .table1 > th{
   background-color: #8fbc8f;
