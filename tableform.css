@@ -16,9 +16,14 @@ background-color: black;
   padding-left: 20px;
   padding-top: 100px;
 }
-table, th, td{
+.table1{
+  background-color:#dcdcdc;
   border: 1px solid black;
   border-collapse: collapse;
+  text-align: center;
+}
+.table1 > th{
+  background-color: #8fbc8f;
 }
 .form1{
   display: flex;
