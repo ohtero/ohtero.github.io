@@ -20,7 +20,9 @@ table, th, td{
   border-collapse: collapse;
 }
 .form1{
-  display: flex;
   justify-content: center;
   padding-bottom: 10px;
+}
+form{
+  display: flex;
 }
