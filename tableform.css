@@ -1,0 +1,10 @@
+html{
+  font-family:verdana, sans-serif;
+}
+body{
+background-color:black;
+}
+.backdrop{
+  background-color:#f8f8ff;
+  min-height: 1000px;
+}
