@@ -12,6 +12,15 @@ body{
   text-align: center;
   width: 80%;
 }
-p, h1{
+p, h1, h2{
   text-shadow: 2px 2px 5px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+a.link{
+  color:#2f4f4f;
+}
+a.hover{
+  color: red;
+  transition: 0.3s;
 }
