@@ -29,13 +29,5 @@ background-color: black;
   border-collapse: collapse;
 }
 .form1{
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: start;
   padding-bottom: 10px;
-}
-.form{
-  display: flex;
-  flex-direction: column;
 }
