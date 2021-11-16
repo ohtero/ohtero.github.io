@@ -3,7 +3,6 @@
   font-size: 16px;
   text-align: center;
 }
-
 .header1{
   box-sizing:border-box;
   background-color:#8fbc8f;
@@ -12,11 +11,9 @@
   padding:30px;
   text
 }
-
 .bar1{
   background-color:#dcdcdc;
 }
-
 .navbutton1{
   border-style:solid;
   border-color:white;
@@ -31,7 +28,6 @@
   background-color:#8fbc8f;
   padding:50px;
 }
-
 .product{
   background-color: #8fbc8f;
   box-sizing:border-box;
@@ -59,7 +55,6 @@
   margin-right: auto;
   padding: 30px;
 }
-
 .footer1{
   background-color:#dcdcdc;
   height: 80px;
