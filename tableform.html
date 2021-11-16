@@ -38,9 +38,18 @@
       </table>
     </div>
     <div class="form1">
-      <form>
+      <form action="https://www.w3schools.com/action_page.php">
         <label for="enimi">Etunimi:</label>
-        <input type="text" id="enimi" name="enimi">
+        <input type="text" id="enimi" name="enimi" required>
+        <label for="snimi">Sukunimi:</label>
+        <input type="text" id="snimi" name="snimi" required>
+        <label for="email">Sähköposti:</label>
+        <input type="text" id="email" name="email" required>
+        <p>Millainen fiilis?</p>
+        <input type="radio" id="todellahyva" name="fiilis" value="todellahyva">
+        <label for="todellahyva">Todella hyvä</label>
+        <input type="radio" id="erittainhyva" name="fiilis" value="erittainhyva">
+        <label for="erittainhyva">Erittäin hyvä</label>
       </form>
     </div>
   </div>
