@@ -24,7 +24,7 @@ background-color: black;
 .table1 .th{
   background-color: #8fbc8f;
 }
-.table1 .tr .th. .td{
+.table1 .tr .th .td{
   border: 1px solid black;
   border-collapse: collapse;
 }
