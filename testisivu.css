@@ -1,7 +1,7 @@
 body{
 background-image: url(https://user-images.githubusercontent.com/91533120/143257107-9cd36584-f74f-4bb5-8031-0ab6234ad252.jpg);
 background-image: no-repeat;
-background-position: fixed;
+background-attachment: fixed;
 background-size: cover;
 
 }
