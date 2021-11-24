@@ -3,6 +3,8 @@ background-image: url(https://user-images.githubusercontent.com/91533120/1432571
 background-image: no-repeat;
 background-attachment: fixed;
 background-size: cover;
+height: auto;
+width: 100%
 
 }
 
