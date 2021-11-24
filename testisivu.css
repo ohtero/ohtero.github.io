@@ -10,7 +10,7 @@ width: 100%
 }
 
 .div1{
-  display
+  box-sizing: border-box;
   background-color: #687B81;
   height: 1440px;
   margin-left: auto;
