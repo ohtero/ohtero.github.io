@@ -7,14 +7,8 @@ height: auto;
 width: 100%
 }
 
-.div1{
-
+.background{
   background-color: #687B81;
-  height: 1440px;
-  margin-left: auto;
-  margin-right: auto;
-  opacity: 0.9;
-
 }
 
 .navigation1{
@@ -25,5 +19,10 @@ width: 100%
 
 .footer1{
   background-color: #4F5B5F;
+  opacity: 0.9;
+}
+
+#testcol{
+  height: 1440px;
   opacity: 0.9;
 }
