@@ -24,6 +24,7 @@ width: 100%
 }
 
 .footer1{
+  box-sizing: border-box;
   background-color: #4F5B5F;
   opacity: 0.9;
 }
