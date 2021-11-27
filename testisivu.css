@@ -9,6 +9,7 @@ width: 100%
 
 .background{
   background-color: #687B81;
+  opacity: 0.9;
 }
 
 .navigation1{
@@ -24,6 +25,4 @@ width: 100%
 
 #testcol{
   height: 1440px;
-  opacity: 0.9;
-  background-color: inherit;
 }
