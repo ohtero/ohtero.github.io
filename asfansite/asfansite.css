@@ -30,4 +30,12 @@ width: 100%;
 
 #entertext{
   font-family: 'Cinzel', serif;
+  font-size: 30;
+}
+
+#entertextbox{
+  margin-top: 20%;
+  margin-left: 10%;
+  margin-right: 10%;
+  padding-bottom: 30px;
 }
