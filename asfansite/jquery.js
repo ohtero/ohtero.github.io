@@ -1,3 +1,3 @@
 $(document).ready(function(){
-$("#entertext").fadeIn(5000);
+$("#entertext").load(fadeIn(5000));
 });
