@@ -3,11 +3,12 @@ body{
 }
 
 #background{
-background-attachment: fixed;
-background-image: url(https://user-images.githubusercontent.com/91533120/143257107-9cd36584-f74f-4bb5-8031-0ab6234ad252.jpg);
-background-position: center;
-background-size: cover;
-height: 100vh;
+  background-attachment: fixed;
+  background-image: url(https://user-images.githubusercontent.com/91533120/143257107-9cd36584-f74f-4bb5-8031-0ab6234ad252.jpg);
+  background-position: center;
+  background-size: cover;
+  display: none;
+  height: 100vh;
 }
 
 .background{
