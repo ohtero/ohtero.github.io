@@ -1,5 +1,3 @@
 $(document).ready(function(){
-  $("#background").fadeIn(5000, function(){
-
-  });
+  $(".hiddenimage").fadeIn(5000)
 });
