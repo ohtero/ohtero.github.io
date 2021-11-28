@@ -1,3 +1,3 @@
 $(document).ready(function(){
-  $(".hiddenimage").animate(opacity:"1");
+  $(".hiddenimage").animate({opacity:"1"}, "slow");
 });
