@@ -3,7 +3,7 @@ body{
 }
 
 .hiddenimage{
-  visibility: hidden;
+  opacity: 0;
 }
 #background{
   background-attachment: fixed;
