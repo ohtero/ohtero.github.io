@@ -77,9 +77,9 @@ body{
   width:100px;
 }
 #enterLogo{
-  height: auto;
+  height: 100px;
   opacity: 0;
-  width: 100%;
+  width: 100px;
 }
 .entertextbox{
   text-align: center;
