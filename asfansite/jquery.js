@@ -1,3 +1,3 @@
 $(document).ready(function(){
-  $(".hiddenimage").fadeIn(5000)
+  $(".hiddenimage").animate(opacity:"1");
 });
