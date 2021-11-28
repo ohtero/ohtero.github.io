@@ -32,50 +32,54 @@ body{
 }
 
 #entertext1{
-  display: none;
   color: white;
   font-family: 'Cinzel', serif;
   font-size: 30px;
   text-shadow: 2px 2px 5px;
+  visibility: hidden;
 }
 #entertext2{
-  display: none;
   color: white;
   font-family: 'Cinzel', serif;
   font-size: 30px;
   text-shadow: 2px 2px 5px;
+  visibility: hidden;
 }
 #entertext3{
-  display: none;
   color: white;
   font-family: 'Cinzel', serif;
   font-size: 30px;
   text-shadow: 2px 2px 5px;
+  visibility: hidden;
 }
 #entertext4{
-  display: none;
   color: white;
   font-family: 'Cinzel', serif;
   font-size: 30px;
   text-shadow: 2px 2px 5px;
+  visibility: hidden;
 }
 #entertext5{
-  display: none;
   color: white;
   font-family: 'Cinzel', serif;
   font-size: 30px;
   text-shadow: 2px 2px 5px;
+  visibility: hidden;
 }
 #entertext6{
-  display: none;
   color: white;
   font-family: 'Cinzel', serif;
   font-size: 16px;
   text-shadow: 2px 2px 5px;
+  visibility: hidden;
+}
+#enterLogoBox{
+  width:100px;
 }
 #enterLogo{
-  height: 100px;
-  width: auto;
+  height: auto;
+  visibility: hidden;
+  width: 100%;
 }
 .entertextbox{
   text-align: center;

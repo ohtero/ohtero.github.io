@@ -1,12 +1,12 @@
 $(document).ready(function(){
   $(".hiddenimage").animate({opacity:1}, 5000, function(){
-    $("#entertext1").fadeIn(3000, function(){
-      $("#entertext2").fadeIn(3000, function(){
-        $("#entertext3").fadeIn(3000,function(){
-          $("#entertext4").fadeIn(3000, function(){
-            $("#entertext5").fadeIn(3000, function(){
-              $("#entertext6").fadeIn(1000, function(){
-                $("#enterLogo").fadeIn(1000);
+    $("#entertext1").animate({opacity:1}, 2000, function(){
+      $("#entertext2").animate({opacity:1}, 2000, function(){
+        $("#entertext3").animate({opacity:1}, 2000,function(){
+          $("#entertext4").animate({opacity:1}, 2000, function(){
+            $("#entertext5").animate({opacity:1,} 2000, function(){
+              $("#entertext6").animate({opacity:1} 1000, function(){
+                $("#enterLogo").animate({opacity:1} 2000);
               });
             });
           });
