@@ -1,4 +1,3 @@
-$(window).ready(function(){
-$("#background").fadeIn(5000);
+$(document).ready(function(){
 $("#entertext").fadeIn(5000);
 });
