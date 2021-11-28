@@ -29,8 +29,10 @@ width: 100%;
 }
 
 #entertext{
+  color: white;
   font-family: 'Cinzel', serif;
   font-size: 30;
+  text-shadow: 2px 2px 5px;
 }
 
 #entertextbox{
