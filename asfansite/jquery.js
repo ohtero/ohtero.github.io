@@ -1,3 +1,3 @@
-$(document).ready(function(){
+$(window).ready(function(){
 $("#background").fadeIn(5000);
 });
