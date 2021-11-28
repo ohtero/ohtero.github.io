@@ -2,6 +2,9 @@ body{
   background-color: black;
 }
 
+#hide{
+  display: none;
+}
 #background{
   background-attachment: fixed;
   background-image: url(https://user-images.githubusercontent.com/91533120/143257107-9cd36584-f74f-4bb5-8031-0ab6234ad252.jpg);
@@ -29,14 +32,41 @@ body{
   height: 1440px;
 }
 
-#entertext{
+#entertext1{
   display: none;
   color: white;
   font-family: 'Cinzel', serif;
   font-size: 50px;
   text-shadow: 2px 2px 5px;
 }
-
+#entertext2{
+  display: none;
+  color: white;
+  font-family: 'Cinzel', serif;
+  font-size: 50px;
+  text-shadow: 2px 2px 5px;
+}
+#entertext3{
+  display: none;
+  color: white;
+  font-family: 'Cinzel', serif;
+  font-size: 50px;
+  text-shadow: 2px 2px 5px;
+}
+#entertext4{
+  display: none;
+  color: white;
+  font-family: 'Cinzel', serif;
+  font-size: 50px;
+  text-shadow: 2px 2px 5px;
+}
+#entertext5{
+  display: none;
+  color: white;
+  font-family: 'Cinzel', serif;
+  font-size: 50px;
+  text-shadow: 2px 2px 5px;
+}
 #entertextbox{
   text-align: center;
 }
