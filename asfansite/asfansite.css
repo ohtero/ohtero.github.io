@@ -35,35 +35,42 @@ body{
   display: none;
   color: white;
   font-family: 'Cinzel', serif;
-  font-size: 50px;
+  font-size: 30px;
   text-shadow: 2px 2px 5px;
 }
 #entertext2{
   display: none;
   color: white;
   font-family: 'Cinzel', serif;
-  font-size: 50px;
+  font-size: 30px;
   text-shadow: 2px 2px 5px;
 }
 #entertext3{
   display: none;
   color: white;
   font-family: 'Cinzel', serif;
-  font-size: 50px;
+  font-size: 30px;
   text-shadow: 2px 2px 5px;
 }
 #entertext4{
   display: none;
   color: white;
   font-family: 'Cinzel', serif;
-  font-size: 50px;
+  font-size: 30px;
   text-shadow: 2px 2px 5px;
 }
 #entertext5{
   display: none;
   color: white;
   font-family: 'Cinzel', serif;
-  font-size: 50px;
+  font-size: 30px;
+  text-shadow: 2px 2px 5px;
+}
+#entertext6{
+  display: none;
+  color: white;
+  font-family: 'Cinzel', serif;
+  font-size: 16px;
   text-shadow: 2px 2px 5px;
 }
 .entertextbox{
