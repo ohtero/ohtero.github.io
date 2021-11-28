@@ -5,7 +5,9 @@ $(document).ready(function(){
         $("#entertext3").fadeIn(3000,function(){
           $("#entertext4").fadeIn(3000, function(){
             $("#entertext5").fadeIn(3000, function(){
-              $("#entertext6").fadeIn(3000);
+              $("#entertext6").fadeIn(1000, function(){
+                $("#enterLogo").fadeIn(1000);
+              });
             });
           });
         });

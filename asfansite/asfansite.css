@@ -73,6 +73,10 @@ body{
   font-size: 16px;
   text-shadow: 2px 2px 5px;
 }
+#enterLogo{
+  height: 100px;
+  width: auto;
+}
 .entertextbox{
   text-align: center;
 }
