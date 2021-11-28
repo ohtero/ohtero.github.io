@@ -43,42 +43,42 @@ body{
   font-family: 'Cinzel', serif;
   font-size: 30px;
   text-shadow: 2px 2px 5px;
-  visibility: hidden;
+  opacity: 0;
 }
 #entertext3{
   color: white;
   font-family: 'Cinzel', serif;
   font-size: 30px;
   text-shadow: 2px 2px 5px;
-  visibility: hidden;
+  opacity: 0;
 }
 #entertext4{
   color: white;
   font-family: 'Cinzel', serif;
   font-size: 30px;
   text-shadow: 2px 2px 5px;
-  visibility: hidden;
+  opacity: 0;
 }
 #entertext5{
   color: white;
   font-family: 'Cinzel', serif;
   font-size: 30px;
   text-shadow: 2px 2px 5px;
-  visibility: hidden;
+  opacity: 0;
 }
 #entertext6{
   color: white;
   font-family: 'Cinzel', serif;
   font-size: 16px;
   text-shadow: 2px 2px 5px;
-  visibility: hidden;
+  opacity: 0;
 }
 #enterLogoBox{
   width:100px;
 }
 #enterLogo{
   height: auto;
-  visibility: hidden;
+  opacity: 0;
   width: 100%;
 }
 .entertextbox{
