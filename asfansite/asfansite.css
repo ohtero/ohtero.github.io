@@ -8,7 +8,6 @@ background-image: url(https://user-images.githubusercontent.com/91533120/1432571
 background-position: center;
 background-size: cover;
 height: 100vh;
-width: 100%;
 }
 
 .background{
@@ -18,6 +17,7 @@ width: 100%;
 
 .navigation1{
   background-color: #4F5B5F;
+  font-family: 'Cinzel', serif;
 }
 
 .footer1{
@@ -36,8 +36,4 @@ width: 100%;
 }
 
 #entertextbox{
-  margin-top: 20%;
-  margin-left: 10%;
-  margin-right: 10%;
-  padding-bottom: 30px;
 }
