@@ -78,7 +78,7 @@ p{
   color: white;
   font-family: 'Cinzel', serif;
   font-size: calc(1rem + 0.7vw);
-  text-shadow: 7px 7px 5px black
+  text-shadow: 7px 7px 5px black;
   opacity: 0;
 }
 #entertext6{
