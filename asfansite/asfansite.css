@@ -141,9 +141,6 @@ a:visited{
 }
 .ordersList{
   background-color: #4F5B5F;
-  border-style: solid;
-  border-width: 2px;
-  border-color: Black;
   color: white;
   font-family: 'Cinzel', serif;
   font-size: calc(0.5rem + 0.5vw);
