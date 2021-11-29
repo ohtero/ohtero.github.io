@@ -1,11 +1,16 @@
 body{
   background-color: black;
 }
-h2, h3{
+h2, h3, h4, h5, h6{
   color: white;
   font-family: 'Cinzel', serif;
-  font-size: calc(0.7rem + 1vw);
   text-align: center;
+}
+h2, h3{
+    font-size: calc(0.7rem + 1vw);
+}
+h6{
+  font-size: calc/0.5rem 0 0.5vw);
 }
 p{color: white;
 }
