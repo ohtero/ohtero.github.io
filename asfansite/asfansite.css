@@ -7,10 +7,10 @@ h2, h3, h4, h5, h6{
     text-align: center;
 }
 h2, h3{
-    font-size: calc(0.7rem + 1vw);
+    font-size: calc(1rem + 0.7vw);
 }
 h6{
-  font-size: calc(0.7rem + 0.5vw);
+  font-size: calc(0.7rem + 0.7vw);
 }
 p{
   color: white;
@@ -48,42 +48,42 @@ p{
 #entertext1{
   color: white;
   font-family: 'Cinzel', serif;
-  font-size: calc(0.7rem + 1vw);
+  font-size: calc(1rem + 0.7vw);
   text-shadow: 2px 2px 5px;
   opacity: 0;
 }
 #entertext2{
   color: white;
   font-family: 'Cinzel', serif;
-  font-size: calc(0.7rem + 1vw);
+  font-size: calc(1rem + 0.7vw);
   text-shadow: 2px 2px 5px;
   opacity: 0;
 }
 #entertext3{
   color: white;
   font-family: 'Cinzel', serif;
-  font-size: calc(0.7rem + 1vw);
+  font-size: calc(1rem + 0.7vw);
   text-shadow: 2px 2px 5px;
   opacity: 0;
 }
 #entertext4{
   color: white;
   font-family: 'Cinzel', serif;
-  font-size: calc(0.7rem + 1vw);
+  font-size: calc(1rem + 0.7vw);
   text-shadow: 2px 2px 5px;
   opacity: 0;
 }
 #entertext5{
   color: white;
   font-family: 'Cinzel', serif;
-  font-size: calc(0.7rem + 1vw);
+  font-size: calc(1rem + 0.7vw);
   text-shadow: 2px 2px 5px;
   opacity: 0;
 }
 #entertext6{
   color: white;
   font-family: 'Cinzel', serif;
-  font-size: calc(0.5rem + 0.7vw);
+  font-size: calc(1rem + 0.7vw);
   text-shadow: 2px 2px 5px;
   opacity: 0;
 }
@@ -107,7 +107,7 @@ p{
 #enterButton{
   color: white;
   font-family: 'Cinzel', serif;
-  font-size: calc(1rem + 1vw);
+  font-size: calc(1rem + 0.7vw);
   opacity: 0;
 }
 a:active{
