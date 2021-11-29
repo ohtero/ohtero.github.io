@@ -23,7 +23,7 @@ p{color: white;
 .background{
   background-color: #687B81;
   opacity: 0.9;
-  min-height: 100vw;
+  min-height: 100vh;
 }
 
 .navigation1{
@@ -118,6 +118,6 @@ a:visited{
   text-align: center;
 }
 #homeImg{
-  max-height: 500px; 
+  max-height: 500px;
   width: auto;
 }
