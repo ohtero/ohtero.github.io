@@ -117,3 +117,7 @@ a:visited{
 .entertextbox{
   text-align: center;
 }
+#homeImg{
+  max-height: 500px; 
+  width: auto;
+}
