@@ -82,6 +82,22 @@ body{
   position: relative;
   max-width: 10%;
 }
+#enterButton{
+  color: white;
+  font-family: 'Cinzel', serif;
+  font-size: calc(1rem + 1vw);
+}
+a:active{
+  color: white;
+}
+a:hover{
+  background-color: #687B81;
+  opacity: 0.5;
+  transition: 0.3;
+}
+a:visited{
+  color: white;
+}
 .entertextbox{
   text-align: center;
 }
