@@ -125,3 +125,6 @@ a:visited{
   border-style: solid;
   border-width: 3px;
 }
+.figure-caption{
+  color: black;
+}
