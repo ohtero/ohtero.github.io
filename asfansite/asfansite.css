@@ -12,7 +12,9 @@ h2, h3{
 h6{
   font-size: calc(0.5rem + 0.5vw);
 }
-p{color: white;
+p{
+  color: white;
+  margin: 30px;
 }
 .hiddenimage{
   opacity: 0;
