@@ -133,6 +133,9 @@ a:visited{
   border-width: 3px;
   max-height: 500px;
 }
+.figure{
+  margin: 20px;
+}
 .figure-caption{
   color: black;
 }
