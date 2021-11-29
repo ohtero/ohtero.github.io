@@ -108,8 +108,7 @@ a:active{
 }
 a:hover{
   background-color: #687B81;
-  opacity: 0.5;
-  transition: 0.3;
+
 }
 a:visited{
   color: white;
