@@ -82,10 +82,9 @@ body{
   position: relative;
   max-width: 10%;
 }
-#enterLogo2{
+.enterLogo2{
   height: auto;
   /opacity: 0;
-  position: relative;
   max-width: 10%;
 }
 #enterButton{
