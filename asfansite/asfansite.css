@@ -108,6 +108,7 @@ p{
   color: white;
   font-family: 'Cinzel', serif;
   font-size: calc(1rem + 1vw);
+  opacity: 0;
 }
 a:active{
   color: white;
