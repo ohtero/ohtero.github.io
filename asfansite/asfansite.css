@@ -146,6 +146,6 @@ a:visited{
   border-color: Black;
   color: white;
   font-family: 'Cinzel', serif;
-  font-size: calc(0.5rem + 0.2vw);
+  font-size: calc(0.5rem + 0.5vw);
 
 }
