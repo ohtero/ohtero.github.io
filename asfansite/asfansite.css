@@ -147,5 +147,9 @@ a:visited{
   color: white;
   font-family: 'Cinzel', serif;
   font-size: calc(0.5rem + 0.5vw);
-
+}
+.list-group-item{
+  border-style: solid;
+  border-width: 2px;
+  border-color: Black;
 }
