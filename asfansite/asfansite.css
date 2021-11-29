@@ -1,6 +1,12 @@
 body{
   background-color: black;
 }
+h2, h3{
+  color: white;
+  font-family: 'Cinzel', serif;
+  font-size: calc(0.7rem + 1vw);
+  text-align: center;
+}
 
 .hiddenimage{
   opacity: 0;
