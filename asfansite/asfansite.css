@@ -119,3 +119,9 @@ a:visited{
 #homeImg{
   max-height: 500px;
 }
+.opaImg{
+  opacity: 1;
+  border-color: #4F5B5F;
+  border-style: solid;
+  border-width: 3px;
+}
